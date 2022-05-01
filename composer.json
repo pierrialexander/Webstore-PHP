@@ -1,0 +1,22 @@
+{
+    "name": "pierr/webstore-php",
+    "description": "Loja Online em PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Pierr\\WebstorePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pierri Alexander Vidmar",
+            "email": "pierrialexandervidmar@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "core\\" : "core/"
+        }
+    }
+}
